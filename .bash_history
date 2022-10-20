@@ -38,3 +38,7 @@ git remote add origin https://github.com/27aniketnirwan/events-app-internal
 git push -u origin main
 git push -u origin main
 git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/27aniketnirwan/events-app-external
+git push -u origin main
